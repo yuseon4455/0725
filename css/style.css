@@ -1,0 +1,19 @@
+/* style.css 공통으로 사용하는 CSS */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul  {
+  list-style-type: none;
+}
+
+button:hover {
+  cursor: pointer;
+}
